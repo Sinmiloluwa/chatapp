@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449611889703",
+    "project_id": "chat-app-5f467",
+    "storage_bucket": "chat-app-5f467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449611889703:android:da4a10f5cf1fca037b6202",
+        "android_client_info": {
+          "package_name": "com.sinmiloluwa.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhUnQ6nwRP3YpsAaosZjuvTOG7lTu9CuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
